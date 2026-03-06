@@ -1,49 +1,51 @@
-![Speed Insights](https://github.com/vercel/speed-insights/blob/main/.github/banner.png)
+# Swigi Clone - Homepage
 
-<div align="center"><strong>Vercel Speed Insights</strong></div>
-<div align="center">Performance insights for your website</div>
-<br />
-<div align="center">
-<a href="https://vercel.com/docs/speed-insights">Website</a>
-<span> · </span>
-<a href="https://vercel.com/docs/speed-insights/package">Documentation</a>
-<span> · </span>
-<a href="https://twitter.com/vercel">Twitter</a>
-</div>
+A simple clone of the Swiggy homepage built using **HTML**, **CSS**, and **React**. This project is designed to mimic the look and feel of the original Swiggy homepage and serves as a practice project to enhance web design and frontend development skills.
 
-## Overview
+## 🚀 Features
 
-`@vercel/speed-insights` automatically tracks web vitals and other performance metrics for your website.
+- Responsive layout for a seamless experience across devices.
+- Eye-catching design inspired by the original Swiggy homepage.
+- Clean and modular code structure.
 
-This package does **not** track data in development mode.
+## 🛠️ Technologies Used
 
-It has 1st class integration with:
+- **HTML5**: For structuring the webpage.
+- **CSS3**: For styling and layout.
+- **React**: For building reusable components and managing the UI.
 
-| Framework | Package                            |
-| --------- | ---------------------------------- |
-| Next.js   | `@vercel/speed-insights/next`      |
-| Nuxt      | `@vercel/speed-insights/nuxt`      |
-| Sveltekit | `@vercel/speed-insights/sveltekit` |
-| Remix     | `@vercel/speed-insights/remix`     |
-| React     | `@vercel/speed-insights/react`     |
-| Astro     | `@vercel/speed-insights/astro`     |
-| Vue       | `@vercel/speed-insights/vue`       |
+## 🙌 Acknowledgments
+- Inspired by Swiggy.
+- Thanks to the React and CSS communities for their support and resources.
+  
+## 🖥️ Installation and Setup
 
-It also supports other frameworks, vanilla JS and static websites.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sanskriti65/Swigi-clone.git
+2. Navigate to the project directory:
+   ```bash
+   cd Swigi-clone
+3. Install dependencies:
+   ```bash
+   npm install
+5. Start the development server:
+   ```bash
+   npm start
+ ## 📷 Screenshots
+  Add screenshots or a demo video of your project here to showcase its UI and functionality.
+  ![Screenshot 2024-12-24 115058](https://github.com/user-attachments/assets/d979df90-cb0f-4890-9919-4552f8535bce)
+  ![Screenshot 2024-12-26 192655](https://github.com/user-attachments/assets/8fb43984-2b65-4bfb-b09b-64bfa1f304b3)
+  ![Screenshot 2024-12-26 192244](https://github.com/user-attachments/assets/6d6d369a-b0bd-499c-b69a-e811cf560ffb)
 
-## Quickstart
+##  📝 License
+  This project is licensed under the MIT License - see the LICENSE file for details.
+  
+## 🤝 Contributing
+  Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-1. Enable Vercel Speed Insights for a project in the [Vercel Dashboard](https://vercel.com/d?to=%2F%5Bteam%5D%2F%5Bproject%5D%2Fspeed-insights&title=Open+Web+Analytics).
-2. Add the `@vercel/speed-insights` package to your project
-3. Inject Speed Insights to your app
+##  📫 Contact
+  - For any inquiries, please reach out to shuklasanskrit70@gmail.com.
+  -  You can also connect with me on www.linkedin.com/in/sanskriti-shukla-03ab89292.
 
-   - If you are using **Next.js**, **React**, **Nuxt** or **Vue** you can use the framework-specific `<SpeedInsights />` component to inject the script into your app.
-   - If you are using **Sveltekit**, you can use the `injectSpeedInsights()` function `@vercel/speed-insights/sveltekit` in your top-level `+layout.js/ts` file.
-   - For other frameworks, you can use the `inject` function add the tracking script to your app.
-   - If you want to use Vercel Speed Insights on a static site without npm, follow the instructions in the [documentation](https://vercel.com/docs/speed-insights/quickstart).
 
-4. Deploy your app to Vercel and see data flowing in.
-
-## Documentation
-
-Find more details about this package in our [documentation](https://vercel.com/docs/speed-insights/quickstart).
