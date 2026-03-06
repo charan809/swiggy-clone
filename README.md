@@ -45,7 +45,7 @@ A simple clone of the Swiggy homepage built using **HTML**, **CSS**, and **React
   Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ##  📫 Contact
-  - For any inquiries, please reach out to shuklasanskrit70@gmail.com.
-  -  You can also connect with me on www.linkedin.com/in/sanskriti-shukla-03ab89292.
+  - For any inquiries, please reach out to charananasani@gmail.com.
+  -  You can also connect with me on www.linkedin.com/in/anasani-charan-9108203a0.
 
 
